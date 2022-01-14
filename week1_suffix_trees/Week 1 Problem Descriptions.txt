@@ -1,0 +1,24 @@
+WEEK 1 PROBLEM DESCRIPTIONS
+
+-------------------------------------------------
+1) trie
+
+Construct a trie from a collection of patterns.
+
+-------------------------------------------------
+2) trie_matching
+
+Find all occurrences of a collection of patterns in a text.
+
+-------------------------------------------------
+3) trie_matching_extended
+
+The goal in this problem is to extend the solution for the previous problem such that it will be able to handle
+cases when one of the patterns is a prefix of another pattern.
+
+-------------------------------------------------
+4) suffix_tree
+
+Construct the suffix tree of a string.
+
+-------------------------------------------------

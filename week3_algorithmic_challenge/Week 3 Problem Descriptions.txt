@@ -1,0 +1,13 @@
+WEEK 3 PROBLEM DESCRIPTIONS
+
+-------------------------------------------------
+1) kmp
+
+Find all occurrences of a pattern in a string.
+
+-------------------------------------------------
+2) suffix_array_long
+
+Construct the suffix array of a string.
+
+-------------------------------------------------
